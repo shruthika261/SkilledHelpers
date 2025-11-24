@@ -1,20 +1,58 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# **Skilled Helpers**  
+### **You Save, They Earn!**
 
-# Run and deploy your AI Studio app
+Skilled Helpers is a community-driven platform created by **Shruthika, Akshaya, and Advitha** to connect people with trusted skilled workers—plumbers, electricians, carpenters, painters, gardeners, and more—at affordable prices.
 
-This contains everything you need to run your app locally.
+Our platform supports families who need reliable services while helping workers earn a fair income and live with dignity.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1p5DjHhtkxZVp9cu6b8mRd-vd03ltey3E
+---
 
-## Run Locally
+## 🚀 **About the Project**
+Many families struggle to find verified, dependable workers, and many skilled workers struggle to find regular work.  
+**Skilled Helpers bridges this gap** by offering a simple platform where:
 
-**Prerequisites:**  Node.js
+- Users can easily find trusted workers  
+- Workers can gain visibility and job opportunities  
+- Services remain affordable for everyone  
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🎯 **Mission**
+Our mission is to **empower low-wage and semi-skilled workers** by improving their visibility and income opportunities while helping communities access essential services at fair prices.
+
+We aim to support the **“No Poverty”** goal through equal opportunity and dignified earning.
+
+---
+
+## 🔧 **Features**
+- Search skilled workers by category  
+- View worker profiles with contact details  
+- Clean and user-friendly interface  
+- Affordable services for users  
+- Fair and transparent earning for workers  
+- Supports community growth and social impact  
+
+---
+
+## 🌍 **Social Impact**
+Skilled Helpers improves lives by:
+
+- Helping workers find steady jobs  
+- Allowing families to access safe, affordable home services  
+- Reducing financial struggles for low-wage workers  
+- Building a balanced ecosystem where **everyone benefits**  
+
+---
+
+## 📌 **Tagline**
+### **You Save, They Earn!**
+
+---
+
+## 👥 **Team Members**
+- **M. Shruthika**  
+- **B. Akshaya**  
+- **M. Advitha**
+
+---
+
